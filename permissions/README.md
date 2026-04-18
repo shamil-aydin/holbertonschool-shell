@@ -6,3 +6,4 @@
 5-execute: adds execute permission to the owner of the file hello
 6-multiple_permissions: adds execute permission to owner and group, and read permission to others
 7-everybody: adds execution permission to owner, group and others to the file hello
+8-James_Bond: sets permissions to 007 (none for owner/group, all for others)
